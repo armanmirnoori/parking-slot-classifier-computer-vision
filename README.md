@@ -23,7 +23,8 @@ This model works best when the parking area is filmed using a **bird’s-eye (to
 
 
 ## Sample Result
-![Parking Slot Classification Result](examples/sample_result.png)
+![Parking Slot Classification Result](sample-result/overview.png
+)
 
 
 
