@@ -22,6 +22,10 @@ The model training process is based entirely on labeled images from the `clf-dat
 This model works best when the parking area is filmed using a **bird’s-eye (top-down overhead) view**, where the entire parking zone is visible from above and slots are clearly separated.
 
 
+## Sample Result
+![Parking Slot Classification Result](examples/sample_result.png)
+
+
 
 
 ## Credits
